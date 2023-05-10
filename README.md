@@ -4,7 +4,7 @@ Twitter's Recommendation Algorithm is a set of services and jobs that are respon
 
 ## Architecture
 
-Product surfaces at Twitter are built on a shared set of data, models, and software frameworks. The shared components included in this repository are listed below:
+Product surfaces at Twitter are built on a shared set of data, models, and software frameworks. The shared components included in this repository are listed below :
 
 | Type | Component | Description |
 |------------|------------|------------|
